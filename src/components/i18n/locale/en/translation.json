@@ -1,0 +1,563 @@
+{
+  "translations": {
+    "home": "Home",
+    "education": "Education and Certifications",
+    "experiences": "Experience",
+    "projects": "Projects",
+    "contact": "Contact and Resume",
+    "settings": {
+      "isSplash": true, 
+      "useCustomCursor": true,
+      "googleTrackingID": "UA-174238252-2"
+    },
+    "socialMediaLinks" : {
+      "github": "https://github.com/brkyyalcin",
+      "linkedin": "https://www.linkedin.com/in/brkyyalcin/",
+      "gmail": "brky.yalcin@hotmail.com"
+    },
+    "greeting": {
+      "contac_me": "Contact Me",
+      "im": "I'm",
+      "title": "Hello 👋.",
+      "title2": "Made by Berkay YALÇIN with ❤️",
+      "logo_name": "Brky.Yalcin .NET",
+      "nickname": "brky.yalcin",
+      "full_name": "Berkay YALÇIN",
+      "subTitle": ".Net Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
+      "resumeLink": "https://www.figma.com/proto/6eqwB8BSXm76aUQJ7oMKWs/CV?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2",
+      "mail": "mailto:brky.yalcin@hotmail.com"
+    },
+    "skills": {
+      "title": "Here's what I do",
+      "data": [
+        {
+          "title": "Full Stack Development",
+          "fileName": "FullStackImg",
+          "skills": [
+            "⚡ Web interfaces using Bootstrap, jquery etc.",
+            "⚡ Building responsive websites using ReactJS",
+            "⚡ React native phone app development",
+            "⚡ Asp Core for app backgrounds",
+            "⚡ Integration of third-party services such as Digital Ocean"
+          ],
+          "softwareSkills": [
+            {
+              "skillName": "HTML5",
+              "fontAwesomeClassname": "simple-icons:html5",
+              "style": {
+                "color": "#E34F26"
+              }
+            },
+            {
+              "skillName": "CSS3",
+              "fontAwesomeClassname": "fa-css3",
+              "style": {
+                "color": "#1572B6"
+              }
+            },
+            {
+              "skillName": "JavaScript",
+              "fontAwesomeClassname": "simple-icons:javascript",
+              "style": {
+                "backgroundColor": "#FFFFFF",
+                "color": "#F7DF1E"
+              }
+            },
+            {
+              "skillName": "Bootstrap",
+              "fontAwesomeClassname": "simple-icons:bootstrap",
+              "style": {
+                "color": "#7952B3"
+              }
+            },
+            {
+              "skillName": "jQuery",
+              "fontAwesomeClassname": "simple-icons:jquery",
+              "style": {
+                "color": "#0769AD"
+              }
+            },
+            {
+              "skillName": "ReactJS",
+              "fontAwesomeClassname": "simple-icons:react",
+              "style": {
+                "color": "#61DAFB"
+              }
+            },
+            {
+              "skillName": "ASP CORE",
+              "fontAwesomeClassname": "simple-icons:dot-net",
+              "style": {
+                "color": "#7377AD"
+              }
+            },
+            {
+              "skillName": "PostgreSQL",
+              "fontAwesomeClassname": "simple-icons:postgresql",
+              "style": {
+                "color": "#4169E1"
+              }
+            },
+            {
+              "skillName": "Visual Basic",
+              "fontAwesomeClassname": "simple-icons:dot-net",
+              "style": {
+                "color": "#029FCE"
+              }
+            },
+            {
+              "skillName": "C Sharp",
+              "fontAwesomeClassname": "simple-icons:csharp",
+              "style": {
+                "color": "##239120"
+              }
+            },
+            {
+              "skillName": "Python",
+              "fontAwesomeClassname": "simple-icons:python",
+              "style": {
+                "color": "#3776AB"
+              }
+            },
+            {
+              "skillName": "Pascal",
+              "fontAwesomeClassname": "simple-icons:delphi",
+              "style": {
+                "color": "#EE1F35"
+              }
+            },
+            {
+              "skillName": "Git",
+              "fontAwesomeClassname": "simple-icons:git",
+              "style": {
+                "color": "#E94E32"
+              }
+            },
+            {
+              "skillName": "Adobe Photoshop",
+              "fontAwesomeClassname": "simple-icons:adobephotoshop",
+              "style": {
+                "color": "#31A8FF"
+              }
+            },
+            {
+              "skillName": "Figma",
+              "fontAwesomeClassname": "simple-icons:figma",
+              "style": {
+                "color": "#F24E1E"
+              }
+            },
+            {
+              "skillName": "Microsoft Office",
+              "fontAwesomeClassname": "simple-icons:microsoftoffice",
+              "style": {
+                "color": "#D83B01"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Cloud Infra-Architecture",
+          "fileName": "CloudInfraImg",
+          "skills": [
+            "⚡ Experience working across multiple cloud platforms",
+            "⚡ Experience hosting and managing websitess",
+            "⚡ Server Management"
+          ],
+          "softwareSkills": [
+            {
+              "skillName": "DigitalOcean",
+              "fontAwesomeClassname": "simple-icons:digitalocean",
+              "style": {
+                "color": "#0080FF"
+              }
+            },
+            {
+              "skillName": "Netlify",
+              "fontAwesomeClassname": "simple-icons:netlify",
+              "style": {
+                "color": "#38AFBB"
+              }
+            },
+            {
+              "skillName": "Debian",
+              "fontAwesomeClassname": "simple-icons:debian",
+              "style": {
+                "color": "#A81D33"
+              }
+            },
+            {
+              "skillName": "Microsoft Azure",
+              "fontAwesomeClassname": "simple-icons:microsoftazure",
+              "style": {
+                "color": "#0078D4"
+              }
+            },
+            {
+              "skillName": "PostgreSQL",
+              "fontAwesomeClassname": "simple-icons:postgresql",
+              "style": {
+                "color": "#336791"
+              }
+            },
+            {
+              "skillName": "MongoDB",
+              "fontAwesomeClassname": "simple-icons:mongodb",
+              "style": {
+                "color": "#47A248"
+              }
+            },
+            {
+              "skillName": "Docker",
+              "fontAwesomeClassname": "simple-icons:docker",
+              "style": {
+                "color": "#1488C6"
+              }
+            },
+            {
+              "skillName": "GitHub Actions",
+              "fontAwesomeClassname": "simple-icons:githubactions",
+              "style": {
+                "color": "#5b77ef"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "degrees": {
+      "title": "Education and Certifications",
+      "subtitle": "",
+      "descriptions": "Below are my certificates and the trainings I have received.",
+      "websiteBtn": "Visit site",
+      "education": "Education",
+      "degrees": [
+        {
+          "title": "Eege University",
+          "subtitle": "Computer Programming",
+          "logo_path": "ege.png",
+          "alt_name": "ege",
+          "duration": "2018 - 2020",
+          "descriptions": [
+            ""
+          ],
+          "website_link": "https://egemyo.ege.edu.tr/eng-/Homepage.html"
+        },
+        {
+          "title": "Necip Fazıl Kısakürek Vocational Technical Anatolian High School",
+          "subtitle": " Ddatabase programming",
+          "logo_path": "meb.png",
+          "alt_name": "mev",
+          "duration": "2013 - 2017",
+          "descriptions": [
+            ""
+          ],
+          "website_link": "https://necipfazilkisakurekmtal.meb.k12.tr/"
+        }
+      ]
+    },
+    "certifications": {
+      "title": "Certifications",
+      "certifications": [
+        {
+          "title": "Database Programming Certificate",
+          "subtitle": "Europass",
+          "logo_path": "europass.png",
+          "certificate_link": "http://urn.meb.gov.tr/sertifika/B%C4%B0L%C4%B0%C5%9E%C4%B0M%20TEKNOLOJ%C4%B0LER%C4%B0/VER%C4%B0%20TABANI%20PROGRAMCILI%C4%9EI.pdf",
+          "alt_name": "Meb",
+          "color_code": "#E2405F"
+        },
+        {
+          "title": "AspNet Core Web/API+Multi-Tier Architecture",
+          "subtitle": "Udemy",
+          "logo_path": "udemy.png",
+          "certificate_link": "https://www.udemy.com/certificate/UC-838ed197-5ed5-431b-95da-c425e10f05c1/",
+          "alt_name": "Udemy",
+          "color_code": "#E2405F"
+        },
+        {
+          "title": "Asp.Net Core Membership System(Asp.Net Core Identity)",
+          "subtitle": "Udemy",
+          "logo_path": "udemy.png",
+          "certificate_link": "https://www.udemy.com/certificate/UC-095d2aff-bbf8-4b7d-adf2-22340f13fbd6/",
+          "alt_name": "Udemy",
+          "color_code": "#E2405F"
+        },
+        {
+          "title": "Asp.Net Core Membership System(Asp.Net Core Identity) -2",
+          "subtitle": "Udemy",
+          "logo_path": "udemy.png",
+          "certificate_link": "https://www.udemy.com/certificate/UC-3ad3d672-1eb5-4800-b145-e9a3f46e4c92/",
+          "alt_name": "Udemy",
+          "color_code": "#E2405F"
+        },
+        {
+          "title": ".Net 5.0 with Microservices",
+          "subtitle": "Udemy",
+          "logo_path": "udemy.png",
+          "certificate_link": "https://www.udemy.com/certificate/UC 93893aeb-179a-45ee-bb8b-d067b68786da/",
+          "alt_name": "Udemy",
+          "color_code": "#E2405F"
+        }
+      ]
+    },
+    "experience": {
+      "title": "Experience",
+      "subtitle": "work experience, internship and volunteer work",
+      "description": "I have been working as a .Net Full Stack Developer for 2 years.",
+      "header_image_path": "experience.svg",
+      "sections": [
+        {
+          "title": "Work Experience",
+          "experiences": [
+            {
+              "title": ".Net Full Stack Developer",
+              "company": "Performanz R&D and Software Services Inc.",
+              "company_url": "https://performa.nz/",
+              "logo_path": "performanzlogo.webp",
+              "duration": "July 2020 - Present",
+              "location": "office",
+              "description": "",
+              "color": "#0071C5"
+            },
+            {
+              "title": "Intern",
+              "company": "Turk Telekom",
+              "company_url": "https://www.turktelekom.com.tr/en/Pages/default.aspx",
+              "logo_path": "turktelekom.png",
+              "duration": "September 2016 - June 2017",
+              "location": "office",
+              "description": "",
+              "color": "#0051A5"
+            }
+          ]
+        },
+        {
+          "title": "Volunteer Jobs",
+          "experiences": []
+        }
+      ]
+    },
+    "contactPageData": {
+      "contactSection": {
+        "title": "contact Me",
+        "profile_image_path": "berkay-yalcin.jpg",
+        "titlebtn": "Resume",
+        "description": "You can contact me at the places listed below. I will try to get back to you as quickly as I can."
+      },
+      "blogSection": {
+        "title": "",
+        "subtitle": "",
+        "link": "",
+        "avatar_image_path": "blogs_image.svg"
+      }
+    },
+    "projectsHeader":{
+      "title": "Projects",
+      "description":"Below are the projects I mentioned. Not all of the following projects are available on github.",
+      "avatar_image_path": "projects_image.svg",
+      "gitbtnText":"More Projects (Github)",
+      "gitLink":"https://github.com/brkyyalcin"
+    },
+    "projectsData" : {
+      "data": [
+        {
+          "id": "0",
+          "name": "Panel.Performa.nz",
+          "url": "https://panel.performa.nz/",
+          "description": "It is a software that enables the athlete data to be entered in every environment with the measurements made, and also allows this data to be evaluated in a versatile way. Monitoring the development of an athlete according to the technical and physical data of the past period. Entering the fatigue information at the end of the training and comparing it with the match performance information. discovery (Your Licensed Players). The web application, whose back-end is asp core front-end, jquery, bootstrap and vanilla js, which you can do such operations, is connected to the tablet with the Rest api.",
+          "languages": [
+            {
+              "skillName": "DigitalOcean",
+              "fontAwesomeClassname": "simple-icons:digitalocean",
+              "style": {
+                "color": "#0080FF"
+              }
+            },
+            {
+              "skillName": "jQuery",
+              "fontAwesomeClassname": "simple-icons:jquery",
+              "style": {
+                "color": "#0769AD"
+              }
+            },
+            {
+              "skillName": "JavaScript",
+              "fontAwesomeClassname": "simple-icons:javascript",
+              "style": {
+                "color": "#F7DF1E"
+              }
+            },
+            {
+              "skillName": "Bootstrap",
+              "fontAwesomeClassname": "simple-icons:bootstrap",
+              "style": {
+                "color": "#7952B3"
+              }
+            },
+            {
+              "skillName": "C# Asp Core",
+              "fontAwesomeClassname": "simple-icons:csharp",
+              "style": {
+                "color": "#239120"
+              }
+            },
+            {
+              "skillName": "PostgreSQL",
+              "fontAwesomeClassname": "simple-icons:postgresql",
+              "style": {
+                "color": "#4169E1"
+              }
+            }
+            
+          ]
+        },
+        {
+          "id": "1",
+          "name": "sporlisesi.Performa.nz",
+          "url": "https://sporlisesi.performa.nz/",
+          "description":" The software that has the same features as panel.performa.nz, but shows the list and scores of the students who won the school by scoring the measurements taken with the devices belonging to the performance company of the aptitude exams, which are made for entry to sports high schools, according to the directive published by the Ministry of National Education.",
+          "languages": [
+            {
+              "skillName": "DigitalOcean",
+              "fontAwesomeClassname": "simple-icons:digitalocean",
+              "style": {
+                "color": "#0080FF"
+              }
+            },
+            {
+              "skillName": "jQuery",
+              "fontAwesomeClassname": "simple-icons:jquery",
+              "style": {
+                "color": "#0769AD"
+              }
+            },
+            {
+              "skillName": "JavaScript",
+              "fontAwesomeClassname": "simple-icons:javascript",
+              "style": {
+                "color": "#F7DF1E"
+              }
+            },
+            {
+              "skillName": "Bootstrap",
+              "fontAwesomeClassname": "simple-icons:bootstrap",
+              "style": {
+                "color": "#7952B3"
+              }
+            },
+            {
+              "skillName": "C# Asp Core",
+              "fontAwesomeClassname": "simple-icons:csharp",
+              "style": {
+                "color": "#239120"
+              }
+            },
+            {
+              "skillName": "PostgreSQL",
+              "fontAwesomeClassname": "simple-icons:postgresql",
+              "style": {
+                "color": "#4169E1"
+              }
+            }
+            
+          ]
+        },
+
+        {
+          "id": "2",
+          "name": "Image processing with opencv P-1",
+          "url": "#",
+          "description":"Using the USB camera connected camera on Raspberry Pi 4 Gb. The software that catches the ball live, detects that the ball falls to the ground when it is thrown into the air and takes a picture right after it. It is still under development. working on how many meters away from the thrower",
+          "languages": [
+            {
+              "skillName": "Python",
+              "fontAwesomeClassname": "simple-icons:python",
+              "style": {
+                "color": "#3776AB"
+              }
+            }
+            
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Image processing with opencv P-2",
+          "url": "#",
+          "description":"Applying the desired filters to the pictures chosen as the University Ending Project and working with a special extension. special software that enables professionals to understand their images .",
+          "languages": [
+            {
+                "skillName": "C#",
+                "fontAwesomeClassname": "simple-icons:csharp",
+                "style": {
+                  "color": "#4169E1"
+                }
+              }
+            
+          ]
+        },
+        {
+          "id": "4",
+          "name": "RS Oto Ekspertiz ",
+          "url": "https://www.rsotoekspertiz.com/",
+          "description":"Coding the interface of the currently used report page, by creating appropriate fields for the data coming from the system, and then printing the relevant page as pdf.",
+          "languages": [
+            {
+                "skillName": "HTML5",
+                "fontAwesomeClassname": "simple-icons:html5",
+                "style": {
+                  "color": "#E34F26"
+                }
+              },
+              {
+                "skillName": "JavaScript",
+                "fontAwesomeClassname": "simple-icons:javascript",
+                "style": {
+                  "color": "#F7DF1E"
+                }
+              },
+              {
+                "skillName": "jQuery",
+                "fontAwesomeClassname": "simple-icons:jquery",
+                "style": {
+                  "color": "#0769AD"
+                }
+              }
+            
+          ]
+        },
+        {
+          "id": "5",
+          "name": "Performance Single app",
+          "url": "#",
+          "description":"It is a program that allows Performanz devices to communicate over a single WPF Desktop application. There are rest api and bluetooh connection in it. In addition, the unit of word repostory was used.",
+          "languages": [
+            {
+                "skillName": "C# WPF",
+                "fontAwesomeClassname": "simple-icons:csharp",
+                "style": {
+                  "color": "#4169E1"
+                }
+              },
+              {
+                "skillName": "Material Design",
+                "fontAwesomeClassname": "simple-icons:materialdesign",
+                "style": {
+                  "color": "#F7DF1E"
+                }
+              },
+              {
+                "skillName": "PostgreSQL",
+                "fontAwesomeClassname": "simple-icons:postgresql",
+                "style": {
+                  "color": "#4169E1"
+                }
+              }
+            
+          ]
+        }
+      ]
+    }
+    
+  }
+}

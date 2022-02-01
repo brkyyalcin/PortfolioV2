@@ -1,0 +1,564 @@
+{
+  "translations": {
+    "home": "Anasayfa",
+    "education": "Eğitim ve Sertifikalar",
+    "experiences": "Deneyimler",
+    "projects": "Projeler",
+    "contact": "İletişim ve Özgeçmiş",
+    "settings": {
+      "isSplash": true, 
+      "useCustomCursor": true,
+      "googleTrackingID": "UA-174238252-2"
+    },
+    "socialMediaLinks" : {
+      "github": "https://github.com/brkyyalcin",
+      "linkedin": "https://www.linkedin.com/in/brkyyalcin/",
+      "gmail": "brky.yalcin@hotmail.com"
+    },
+    "greeting": {
+      "contac_me": "Benimle irtibata geçin",
+      "im": "Ben",
+      "title": "Merhaba 👋.",
+      "title2": "Berkay YALÇIN tarafından ❤️ ile yapılmıştır",
+      "logo_name": "Brky.Yalcin .NET",
+      "nickname": "brky.yalcin",
+      "full_name": "Berkay YALÇIN",
+      "subTitle": ".Net Full Stack Yazılım Geliştiriciyim, Açık Kaynak Meraklısı 🔥. Her zaman öğrenmeye açığım.",
+      "resumeLink": "https://www.figma.com/proto/6eqwB8BSXm76aUQJ7oMKWs/CV?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2",
+      "mail": "mailto:brky.yalcin@hotmail.com"
+    },
+    "skills": {
+      "title": "Yeteneklerim",
+      "data": [
+        {
+          "title": "Full Stack Development",
+          "fileName": "FullStackImg",
+          "skills": [
+            "⚡ Bootsrap,jquery vb kullanarak web arayüzleri",
+            "⚡ ReactJS kullanarak duyarlı Web siteleri oluşturma",
+            "⚡ React native telefon uygulaması geliştirme    ",
+            "⚡ Uygulama arka planları için Asp Core",
+            "⚡ Digital Ocean gibi üçüncü taraf hizmetlerin entegrasyonu"
+          ],
+          "softwareSkills": [
+            {
+              "skillName": "HTML5",
+              "fontAwesomeClassname": "simple-icons:html5",
+              "style": {
+                "color": "#E34F26"
+              }
+            },
+            {
+              "skillName": "CSS3",
+              "fontAwesomeClassname": "fa-css3",
+              "style": {
+                "color": "#1572B6"
+              }
+            },
+            {
+              "skillName": "JavaScript",
+              "fontAwesomeClassname": "simple-icons:javascript",
+              "style": {
+                "backgroundColor": "#FFFFFF",
+                "color": "#F7DF1E"
+              }
+            },
+            {
+              "skillName": "Bootstrap",
+              "fontAwesomeClassname": "simple-icons:bootstrap",
+              "style": {
+                "color": "#7952B3"
+              }
+            },
+            {
+              "skillName": "jQuery",
+              "fontAwesomeClassname": "simple-icons:jquery",
+              "style": {
+                "color": "#0769AD"
+              }
+            },
+            {
+              "skillName": "ReactJS",
+              "fontAwesomeClassname": "simple-icons:react",
+              "style": {
+                "color": "#61DAFB"
+              }
+            },
+            {
+              "skillName": "ASP CORE",
+              "fontAwesomeClassname": "simple-icons:dot-net",
+              "style": {
+                "color": "#7377AD"
+              }
+            },
+            {
+              "skillName": "PostgreSQL",
+              "fontAwesomeClassname": "simple-icons:postgresql",
+              "style": {
+                "color": "#4169E1"
+              }
+            },
+            {
+              "skillName": "Visual Basic",
+              "fontAwesomeClassname": "simple-icons:dot-net",
+              "style": {
+                "color": "#029FCE"
+              }
+            },
+            {
+              "skillName": "C Sharp",
+              "fontAwesomeClassname": "simple-icons:csharp",
+              "style": {
+                "color": "##239120"
+              }
+            },
+            {
+              "skillName": "Python",
+              "fontAwesomeClassname": "simple-icons:python",
+              "style": {
+                "color": "#3776AB"
+              }
+            },
+            {
+              "skillName": "Pascal",
+              "fontAwesomeClassname": "simple-icons:delphi",
+              "style": {
+                "color": "#EE1F35"
+              }
+            },
+            {
+              "skillName": "Git",
+              "fontAwesomeClassname": "simple-icons:git",
+              "style": {
+                "color": "#E94E32"
+              }
+            },
+            {
+              "skillName": "Adobe Photoshop",
+              "fontAwesomeClassname": "simple-icons:adobephotoshop",
+              "style": {
+                "color": "#31A8FF"
+              }
+            },
+            {
+              "skillName": "Figma",
+              "fontAwesomeClassname": "simple-icons:figma",
+              "style": {
+                "color": "#F24E1E"
+              }
+            },
+            {
+              "skillName": "Microsoft Office",
+              "fontAwesomeClassname": "simple-icons:microsoftoffice",
+              "style": {
+                "color": "#D83B01"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Bulut Altyapısı Mimarisi",
+          "fileName": "CloudInfraImg",
+          "skills": [
+            "⚡ Birden çok bulut platformunda çalışma deneyimi",
+            "⚡ Web sitelerini barındırma ve yönetme deneyimini yaşayın",
+            "⚡ Sunucu Yönetimi"
+          ],
+          "softwareSkills": [
+            {
+              "skillName": "DigitalOcean",
+              "fontAwesomeClassname": "simple-icons:digitalocean",
+              "style": {
+                "color": "#0080FF"
+              }
+            },
+            {
+              "skillName": "Netlify",
+              "fontAwesomeClassname": "simple-icons:netlify",
+              "style": {
+                "color": "#38AFBB"
+              }
+            },
+            {
+              "skillName": "Debian",
+              "fontAwesomeClassname": "simple-icons:debian",
+              "style": {
+                "color": "#A81D33"
+              }
+            },
+            {
+              "skillName": "Microsoft Azure",
+              "fontAwesomeClassname": "simple-icons:microsoftazure",
+              "style": {
+                "color": "#0078D4"
+              }
+            },
+            {
+              "skillName": "PostgreSQL",
+              "fontAwesomeClassname": "simple-icons:postgresql",
+              "style": {
+                "color": "#336791"
+              }
+            },
+            {
+              "skillName": "MongoDB",
+              "fontAwesomeClassname": "simple-icons:mongodb",
+              "style": {
+                "color": "#47A248"
+              }
+            },
+            {
+              "skillName": "Docker",
+              "fontAwesomeClassname": "simple-icons:docker",
+              "style": {
+                "color": "#1488C6"
+              }
+            },
+            {
+              "skillName": "GitHub Actions",
+              "fontAwesomeClassname": "simple-icons:githubactions",
+              "style": {
+                "color": "#5b77ef"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "degrees": {
+      "title": "Eğitimler ve Sertifikalar",
+      "subtitle": "",
+      "descriptions": "Aşağıda sertifikalarım ve aldığım eğitimler yer almaktadır.",
+      "websiteBtn": "Siteyi ziyaret et",
+      "education": "Eğitimler",
+      "Certifications": "Sertifikalar",
+      "degrees": [
+        {
+          "title": "Ege Üniversitesi",
+          "subtitle": "Bilgisayar Programcılığı",
+          "logo_path": "ege.png",
+          "alt_name": "ege",
+          "duration": "2018 - 2020",
+          "descriptions": [
+            ""
+          ],
+          "website_link": "https://egemyo.ege.edu.tr/"
+        },
+        {
+          "title": "Necip Fazıl Kısakürek Mesleki Teknik Anadolu Lisesi",
+          "subtitle": " Veri tabanı programcılığı",
+          "logo_path": "meb.png",
+          "alt_name": "mev",
+          "duration": "2013 - 2017",
+          "descriptions": [
+            ""
+          ],
+          "website_link": "https://necipfazilkisakurekmtal.meb.k12.tr/"
+        }
+      ]
+    },
+    "certifications": {
+      "title": "Sertifikalar   ",
+      "certifications": [
+        {
+          "title": "Veritabanı Programcılı Sertifikası",
+          "subtitle": "Europass",
+          "logo_path": "europass.png",
+          "certificate_link": "http://urn.meb.gov.tr/sertifika/B%C4%B0L%C4%B0%C5%9E%C4%B0M%20TEKNOLOJ%C4%B0LER%C4%B0/VER%C4%B0%20TABANI%20PROGRAMCILI%C4%9EI.pdf",
+          "alt_name": "Meb",
+          "color_code": "#E2405F"
+        },
+        {
+          "title": "AspNet Core Web/API+Çok Katmanlı Mimari",
+          "subtitle": "Udemy",
+          "logo_path": "udemy.png",
+          "certificate_link": "https://www.udemy.com/certificate/UC-838ed197-5ed5-431b-95da-c425e10f05c1/",
+          "alt_name": "Udemy",
+          "color_code": "#E2405F"
+        },
+        {
+          "title": "Asp.Net Core Üyelik Sistemi(Asp.Net Core Identity)",
+          "subtitle": "Udemy",
+          "logo_path": "udemy.png",
+          "certificate_link": "https://www.udemy.com/certificate/UC-095d2aff-bbf8-4b7d-adf2-22340f13fbd6/",
+          "alt_name": "Udemy",
+          "color_code": "#E2405F"
+        },
+        {
+          "title": "Asp.Net Core Üyelik Sistemi(Asp.Net Core Identity) -2",
+          "subtitle": "Udemy",
+          "logo_path": "udemy.png",
+          "certificate_link": "https://www.udemy.com/certificate/UC-3ad3d672-1eb5-4800-b145-e9a3f46e4c92/",
+          "alt_name": "Udemy",
+          "color_code": "#E2405F"
+        },
+        {
+          "title": ".Net 5.0 İle Microservices",
+          "subtitle": "Udemy",
+          "logo_path": "udemy.png",
+          "certificate_link": "https://www.udemy.com/certificate/UC 93893aeb-179a-45ee-bb8b-d067b68786da/",
+          "alt_name": "Udemy",
+          "color_code": "#E2405F"
+        }
+      ]
+    },
+    "experience": {
+      "title": "iş Deneyimi",
+      "subtitle": "iş deneyimi, staj ve gönüllü işler",
+      "description": "2 Yıldır .Net Full Stack Geliştirici olarak çalışmaktayım.",
+      "header_image_path": "experience.svg",
+      "sections": [
+        {
+          "title": "İş Deneyimi",
+          "experiences": [
+            {
+              "title": ".Net Full Stack Developer",
+              "company": "Performanz Ar-Ge ve Yazılım Hizmetleri A.Ş.",
+              "company_url": "https://performa.nz/",
+              "logo_path": "performanzlogo.webp",
+              "duration": "Temmuz 2020 - Halen",
+              "location": "ofis",
+              "description": "",
+              "color": "#0071C5"
+            },
+            {
+              "title": "Stajyer",
+              "company": "Türk Telekom",
+              "company_url": "https://turktelekom.com.tr",
+              "logo_path": "turktelekom.png",
+              "duration": "Eylül 2016 - Haziran 2017",
+              "location": "ofis",
+              "description": "",
+              "color": "#0051A5"
+            }
+          ]
+        },
+        {
+          "title": "Gönüllü İşler",
+          "experiences": []
+        }
+      ]
+    },
+    "contactPageData": {
+      "contactSection": {
+        "title": "Benimle irtibata geçin",
+        "profile_image_path": "berkay-yalcin.jpg",
+        "titlebtn": "Özgeçmiş",
+        "description": "Aşağıda belirtilen yerlerden benimle iletişime geçebilirsiniz. Elimden geldiğince hızlı bir şekilde size geri dönmeye çalışacağım. "
+      },
+      "blogSection": {
+        "title": "",
+        "subtitle": "",
+        "link": "",
+        "avatar_image_path": "blogs_image.svg"
+      }
+    },
+    "projectsHeader": {
+      "title": "Projeler",
+      "description": "Bahsettiğim projeler aşağıdadır. aşağıdaki projelerinin hepsi github da yoktur.",
+      "avatar_image_path": "projects_image.svg",
+      "gitbtnText":"Daha Fazla (Github)",
+      "gitLink":"https://github.com/brkyyalcin"
+    },
+    "projectsData" : {
+      "data": [
+        {
+          "id": "0",
+          "name": "Panel.Performa.nz",
+          "url": "https://panel.performa.nz/",
+          "description": "Yapılan ölçümler ile sporcu verilerinin her ortamda girilmesini sağlayan, aynı zamanda bu verilerin çok yönlü değerlendirilmesine imkan veren bir yazılımdır.Bir sporcunun geçmiş dönemdeki teknik ve fiziksel verilerine göre gelişimini izleme.Antrenman sonunda yorgunluk bilgilerinin girilmesi ve maç performans  bilgisi ile karşılaştırma Organizasyon içinde bulunan başarılı sporcuların keşfi (Lisanslı Oyuncularınız). gibi işlemleri yapabileceğiniz tamamen benim yazdığım back-end’i asp core front-end’i jquery,bootstrap ve vanilla js olan web uygulaması Rest api ile tablete bağlanmaktadır.",
+          "languages": [
+            {
+              "skillName": "DigitalOcean",
+              "fontAwesomeClassname": "simple-icons:digitalocean",
+              "style": {
+                "color": "#0080FF"
+              }
+            },
+            {
+              "skillName": "jQuery",
+              "fontAwesomeClassname": "simple-icons:jquery",
+              "style": {
+                "color": "#0769AD"
+              }
+            },
+            {
+              "skillName": "JavaScript",
+              "fontAwesomeClassname": "simple-icons:javascript",
+              "style": {
+                "color": "#F7DF1E"
+              }
+            },
+            {
+              "skillName": "Bootstrap",
+              "fontAwesomeClassname": "simple-icons:bootstrap",
+              "style": {
+                "color": "#7952B3"
+              }
+            },
+            {
+              "skillName": "C# Asp Core",
+              "fontAwesomeClassname": "simple-icons:csharp",
+              "style": {
+                "color": "#239120"
+              }
+            },
+            {
+              "skillName": "PostgreSQL",
+              "fontAwesomeClassname": "simple-icons:postgresql",
+              "style": {
+                "color": "#4169E1"
+              }
+            }
+            
+          ]
+        },
+        {
+          "id": "1",
+          "name": "sporlisesi.Performa.nz",
+          "url": "https://sporlisesi.performa.nz/",
+          "description":" panel.performa.nz ile özellikleri aynı olan fakat spor liselerine giriş için yapılan, yetenek sınavlarının performanz şirketine ait cihazlar ile alınan ölçümlerini Meb in yayınladığı yönergeye göre puanlandırarak  okulu kazanan öğrencilerin listesini ve puanlarını gösteren yazılım",
+          "languages": [
+            {
+              "skillName": "DigitalOcean",
+              "fontAwesomeClassname": "simple-icons:digitalocean",
+              "style": {
+                "color": "#0080FF"
+              }
+            },
+            {
+              "skillName": "jQuery",
+              "fontAwesomeClassname": "simple-icons:jquery",
+              "style": {
+                "color": "#0769AD"
+              }
+            },
+            {
+              "skillName": "JavaScript",
+              "fontAwesomeClassname": "simple-icons:javascript",
+              "style": {
+                "color": "#F7DF1E"
+              }
+            },
+            {
+              "skillName": "Bootstrap",
+              "fontAwesomeClassname": "simple-icons:bootstrap",
+              "style": {
+                "color": "#7952B3"
+              }
+            },
+            {
+              "skillName": "C# Asp Core",
+              "fontAwesomeClassname": "simple-icons:csharp",
+              "style": {
+                "color": "#239120"
+              }
+            },
+            {
+              "skillName": "PostgreSQL",
+              "fontAwesomeClassname": "simple-icons:postgresql",
+              "style": {
+                "color": "#4169E1"
+              }
+            }
+            
+          ]
+        },
+
+        {
+          "id": "2",
+          "name": "Opencv ile Görüntü işleme P-1",
+          "url": "#",
+          "description":" Raspberry Pi 4 Gb üzerinde, Usb kamera bağlanan kamera kullanılarak. Canlı olarak topu yakalayan, topun havaya atıldığında yere düştüğünü algılayıp hemen arkasından resim çeken yazılım. Hala geliştirilme aşamasındadır. topu atan kişiden kaç metre uzaklaştığı üzerinde çalışıyor",
+          "languages": [
+            {
+              "skillName": "Python",
+              "fontAwesomeClassname": "simple-icons:python",
+              "style": {
+                "color": "#3776AB"
+              }
+            }
+            
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Opencv ile Görüntü işleme P-2",
+          "url": "#",
+          "description":" Üniversite Bitime projesi olarak seçilen resimlere istenilen filtreleri uygulayan ve özel uzantısı ile çalışan. profesyonel kişilerin görüntülerini anlamasını sağlayan özel bir yazılım . ",
+          "languages": [
+            {
+                "skillName": "C#",
+                "fontAwesomeClassname": "simple-icons:csharp",
+                "style": {
+                  "color": "#4169E1"
+                }
+              }
+            
+          ]
+        },
+        {
+          "id": "4",
+          "name": "RS Oto Ekspertiz ",
+          "url": "https://www.rsotoekspertiz.com/",
+          "description":"Sistem üzerinden gelen verileri uygun alanlar oluşturarak daha sonra ilgili sayfayı pdf olarak çıktı alındığı şuan aktif olarak kullanılan rapor sayfasının arayüzünün kodlanması. ",
+          "languages": [
+            {
+                "skillName": "HTML5",
+                "fontAwesomeClassname": "simple-icons:html5",
+                "style": {
+                  "color": "#E34F26"
+                }
+              },
+              {
+                "skillName": "JavaScript",
+                "fontAwesomeClassname": "simple-icons:javascript",
+                "style": {
+                  "color": "#F7DF1E"
+                }
+              },
+              {
+                "skillName": "jQuery",
+                "fontAwesomeClassname": "simple-icons:jquery",
+                "style": {
+                  "color": "#0769AD"
+                }
+              }
+            
+          ]
+        },
+        {
+          "id": "5",
+          "name": "Performanz Tek uygualama ",
+          "url": "#",
+          "description":"Performanz şirketine ait cihazların tek bir WPF Masaüstü uygulama üzerinden iletişim kurmasını sağlayan programdır. içeirisnde rest api ve bluetooh bağlantısı mevcut. bunun yanında unit of word repostory kullanılmıştır. ",
+          "languages": [
+            {
+                "skillName": "C# WPF",
+                "fontAwesomeClassname": "simple-icons:csharp",
+                "style": {
+                  "color": "#4169E1"
+                }
+              },
+              {
+                "skillName": "Material Design",
+                "fontAwesomeClassname": "simple-icons:materialdesign",
+                "style": {
+                  "color": "#F7DF1E"
+                }
+              },
+              {
+                "skillName": "jQuery",
+                "fontAwesomeClassname": "simple-icons:jquery",
+                "style": {
+                  "color": "#0769AD"
+                }
+              }
+            
+          ]
+        }
+      ]
+    }
+    
+  }
+}
