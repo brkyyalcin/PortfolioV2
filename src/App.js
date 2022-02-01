@@ -28,7 +28,7 @@ function App() {
     <ThemeProvider theme={themes[theme]}>
       <>
         <GlobalStyles />
-        <div>
+        <div class="w-100">
           {useCursor ? (
             <CursorProvider
               color={themes[theme].secondaryText}
